@@ -4,8 +4,12 @@
 
 Este proyecto automatiza el setup de un entorno de desarrollo para trabajar con Ruby on Riails. Utilice esta máquina virtual para trabajar en sus proyectos con todo listo para ejecutar y testear.
 
-## Requerimientos para instalr
+## Requerimientos y herramientas necesarias para poder instalar el ambiente de desarrollo
 
+Aplicaciones que se deben instalar para poder trabajar con Ruby on Rails
+
+* [GitBash](http://git-scm.com/downloads)
+* [Sublime Text 2](http://www.sublimetext.com/2)
 * [VirtualBox](https://www.virtualbox.org) o [VMWare Fusion](http://www.vmware.com/products/fusion) o [Parallels Desktop](http://www.parallels.com/products/desktop/)(es necesaria la versión de Vagrant 1.5+, ver [vagrant-parallels](http://parallels.github.io/vagrant-parallels/docs/installation/index.html))
 
 * [Vagrant 1.1+](http://vagrantup.com) (No para Ruby Gem)
